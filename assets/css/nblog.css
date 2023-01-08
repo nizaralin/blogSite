@@ -1,0 +1,19 @@
+.padl{
+    padding-left: 12rem;
+}
+
+.Items{
+    align-items: flex-start;
+    text-align: start;
+    padding-left: 5rem;
+
+}
+.Items-img{
+    width: 30rem;
+    
+}
+.Item-hed{
+    color: #474748;
+    font-weight: bold;
+
+}
