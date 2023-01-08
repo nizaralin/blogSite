@@ -1,14 +1,8 @@
 .padl{
     padding-left:4rem;
 }
-
-.Items{
-    align-items: flex-start;
-    text-align: start;
-    
-}
 .Items-img{
-    width: 30rem;
+    width: 20rem;
     
 }
 .Item-hed{
