@@ -1,12 +1,11 @@
 .padl{
-    padding-left: 12rem;
+    padding-left:4rem;
 }
 
 .Items{
     align-items: flex-start;
     text-align: start;
-    padding-left: 5rem;
-
+    
 }
 .Items-img{
     width: 30rem;

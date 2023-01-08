@@ -31,6 +31,12 @@ h3{
    font-weight: bold;
    color: #474748;
 }
+h2{
+    
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  color: #474748;
+}
 .tlarge,h4{
     font-size: 2rem;
    font-family: 'Times New Roman', Times, serif;
@@ -82,7 +88,6 @@ h3{
 /*
  * Header
  */
-
 
 .nav-masthead .nav-link {
     padding: .25rem 0;
@@ -151,9 +156,6 @@ h3{
     
   }
 
-  .forms-control{
-  float: left;
-  }
   /* tab css start */
 
 
