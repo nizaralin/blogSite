@@ -9,7 +9,7 @@
 
 /* for text formating */
 .title,h1{
-    font-size: 3.5rem;
+    font-size: 280%;
    font-family: 'Times New Roman', Times, serif;
    font-weight: bold;
    color: #474748;
@@ -141,7 +141,7 @@ h3{
     height: 27px;
 }
 .carousel-caption-hed{
-    position: absolute;
+    position: relative;
     top: 10%;
     right:5%;
     left: 10%;
